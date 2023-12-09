@@ -1,14 +1,14 @@
-# name = 'ibrohim'
-# if name:
-#     cnt = len(name)
-#     print(cnt)
-#
-# name = 'ibrohim'
-# if (cnt := len(name)) != 0:
-#     print(cnt)
-#
-# if 10 > 5:
-#     print(10)
+name = 'ibrohim'
+if name:
+    cnt = len(name)
+    print(cnt)
+
+name = 'ibrohim'
+if (cnt := len(name)) != 0:
+    print(cnt)
+
+if 10 > 5:
+    print(10)
 
 
 """
